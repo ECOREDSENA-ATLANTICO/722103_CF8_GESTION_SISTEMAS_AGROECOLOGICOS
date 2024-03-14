@@ -43,7 +43,14 @@
 
 .fnd-1 
   background-color: #EFF5D6 !important
-
+  &-1
+    border-radius: 10px
+    background-color: #EFF5D6 !important
+  &-2
+    border-radius: 20px
+    background-color: #EFF5D6 !important    
+.fnd-1-
+  background-color: #ffffff !important
 .fnd-2
   background-color: #F9F7EC !important
   padding: 3rem
@@ -64,13 +71,9 @@
 
 .fnd-6
   position: relative
-  width: auto
   background-image: url(../assets/curso/temas/tema1/img-29--.svg)
-  height: 100%
   background-position: 0 0
   background-repeat: no-repeat  
-  padding: 3rem
-
   width: 100%
   height: 100%
   left: 0px
@@ -100,6 +103,139 @@
       background-color: #DEEBAD
       border-radius: 10px
       margin-bottom: 3rem      
+
+.fnd-8-
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: center
+  align-items: center
+  padding: -0m 4.5rem -1.5rem 68px !important
+  z-index: 1
+    width: 100%
+  &::before
+      content: ""
+      position: absolute
+      top: 0
+      width: 100%
+      height: 100%
+      background-image: url(../assets/curso/temas/tema2/img-1-.svg)
+      background-repeat: no-repeat
+      background-size: contain
+      z-index: -1    
+  @media (max-width: 992px) 
+    padding: 2rem !important
+    margin-bottom: 2rem
+    &::before
+      width: 100% 
+      background-color:#DEEBAD !important     
+      background-image: none   
+      border-radius: 2rem
+      padding: 1rem !important
+  
+  @media (min-width: 992px) and (max-width: 1200px)
+    position: relative
+    display: flex
+    flex-direction: row
+    justify-content: center
+    align-items: center
+    padding: -0m 4.5rem -1.5rem 68px !important
+    z-index: 1
+    width: 100%
+    &::before
+      content: ""
+      position: absolute
+      top: 0
+      width: 100%
+      height: 100%
+      background-image: url(../assets/curso/temas/tema2/img-1-.svg)
+      background-repeat: no-repeat
+      background-size: contain
+      z-index: -1    
+
+.fnd-9
+    position: relative
+    background-image: url(../assets/curso/temas/tema2/img-1.svg)
+    background-position: center
+    background-repeat: no-repeat
+    padding: 2rem
+    z-index: 0
+    @media (max-width: 992px)  
+      background-image: none
+      background-color: #DEEBAD
+      border-radius: 10px
+      margin-bottom: 3rem 
+.fond
+    position: relative
+    display: flex
+    justify-content: flex-end 
+.fnd-3-
+  background-color: #FFE9E1 !important
+  border-radius: 1rem
+  position: absolute
+  width: 100%
+  z-index: 0
+  height: 67%
+  bottom: 0
+  @media (max-width: 1200px)  
+    height: 100%
+.fnd-3--
+  background-color: #EFF5D6 !important
+  border-radius: 1rem
+  position: absolute
+  width: 81%
+  z-index: 0
+  top: 20%
+  bottom: 26%
+  @media (max-width: 1200px)  
+    height: 100%
+.fnd-4-
+  background-color: #FFD3C3 !important
+  border-radius: 1rem
+  position: absolute
+  width: 93%
+  z-index: 0
+  height: 100%
+  right: 0
+  @media (max-width: 1200px)  
+    width: 100%    
+
+.list2 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__icon 
+      position: relative
+      width: 46px
+      margin-right: 0.65rem
+      margin-top: 4px
+  &__txt 
+    p:first-child,
+    h4:first-child 
+    margin: 2rem 0
+  
+.tt-m
+  padding: 0 2rem 0 2rem !important
+  @media (max-width: 992px)
+    padding: 3rem !important
+      
+.ptt-3
+  z-index: 1
+
+
+.img-infografica.color-primario.img-1 .img-infografica__item__numero
+    color: #000000
+
+  
+.img-infografica.color-primario.img-1 .img-infografica__item
+    width: 3.5%
+
+.img-infografica.color-primario .img-infografica__item__dot:before
+    background-color: #ffffff;
+    border: solid 1px #03030360
+.img-infografica.color-primario .img-infografica__item__dot:after
+    background-color: #0d0d0d69;
+
 
 .bloque-texto-g__img2 
     width: 102%
@@ -139,20 +275,6 @@
   .tabs-a__tab__selected  
     color: #ffffff !important    
 
-.bg_1
-  background-image: url("../assets/curso/temas/tema1/img-18-.svg")  
-  padding: 25px
-  background-repeat: no-repeat
-  background-size: auto
-  margin: 3rem
-  background-position: left bottom
-  position: relative
-  
-  @media (max-width: 992px)
-    background-image: none
-    background-color: #EFF5D6
-    border-radius: 2rem
-
 .t5 
   margin-top: 18rem  
   @media (max-width: 992px)  
@@ -169,19 +291,35 @@
 
 .radius
   border-radius: 1rem
-
+.img-44
+  height: 44px
+  justify-content: center!important
+  display: block
+  margin: 0 auto   
+.img-100
+  width: 100px
+  justify-content: center!important
+  display: block
+  margin: 0 auto   
 .img-151
   width: 151px
   justify-content: center!important
   display: block
   margin: 0 auto      
-
+.img-170
+  height: 170px
+  justify-content: center!important
+  display: block
+  margin: 0 auto  
 .img-173
   width: 214px
   justify-content: center!important
   display: block
-  margin: 0 auto      
+  margin: 0 auto  
 
+.img-274
+  width: 274px
+  justify-content: center!important
 .img-300
   height: 300px
   justify-content: center!important
@@ -200,8 +338,8 @@
   display: block
   margin: 0 auto       
 
-.img-274
-  width: 274px
+.img-386
+  min-width: 450px !important
   justify-content: center!important
   
 
@@ -218,7 +356,7 @@
     background-size: cover
     height: auto    
 
-.bloque-texto-g__texto 
+.bloque-texto-g__texto.fnd-4
     position: initial
     align-content: center !important
     margin: 6% 5% 0% 0%
@@ -230,3 +368,48 @@
   margin-left: 30%    
 .ltt
   margin-left: 10%      
+
+
+$crd-icon-size: 120px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2))
+  
+.crd_01 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #FFD3C3
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2  
+
+
+
+.linea-tiempo-d.color-secundario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number 
+    background-color: #EFF5D6  
+
+.linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title 
+    background-color: #EFF5D6 
+
+.linea-tiempo-d__item__content__slot 
+    background-color: #EFF5D6 

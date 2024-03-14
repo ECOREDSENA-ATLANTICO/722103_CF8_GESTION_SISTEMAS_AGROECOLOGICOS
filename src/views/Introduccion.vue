@@ -9,8 +9,6 @@
           i.fas.fa-info
       h1 Introducción
 
-
-    h3.titulo-tercero Cajón texto color G
     .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/portada/img-1.png')})`}"

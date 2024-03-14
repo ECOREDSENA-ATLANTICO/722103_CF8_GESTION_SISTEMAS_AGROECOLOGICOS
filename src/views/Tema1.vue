@@ -392,7 +392,7 @@
             img(src='@/assets/curso/temas/tema1/img-28.svg', alt='Actores sociales')
         
       .col-lg-6.justify-content-center.d-flex.justify-content-start
-        .fnd-6
+        .fnd-6.px-4
           .row.py-5
             p El concepto de actor social posibilita la acción política desde la mirada comunitaria, ya que permite que los individuos, grupos e instituciones desarrollen actividades a través de la gestión de la información, los recursos y la experiencia para poder incidir e influenciar la acción democrática dentro de lo local, lo barrial, lo comunitario. El predominio de actores sociales conlleva a que la participación ciudadana pueda tejerse dentro de procesos democráticos y se fortalezcan políticamente las relaciones comunitarias y locales. 
             p No obstante, es necesario dejar claro que el actor social no solamente está dentro del ámbito local, es necesario resaltar que la categoría de actor se introduce a espacios más amplios como lo regional, nacional o internacional y tiene representación decisiva dentro de las relaciones locales también. 
