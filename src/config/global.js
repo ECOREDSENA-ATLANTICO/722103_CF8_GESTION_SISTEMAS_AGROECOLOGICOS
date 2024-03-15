@@ -38,128 +38,32 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Componentes',
+        titulo: 'Gestión comunitaria en el marco de la agroecología',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
+            titulo: 'Normativa y niveles de aplicación',
+            hash: 't-1-1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
+            titulo: 'Fases e instrumentos de la gestión comunitaria ',
+            hash: 't-1-2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
+            titulo: 'Conceptos sobre actores sociales ',
+            hash: 't-1-3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.4',
-            titulo: 'Audio',
-            hash: 'audio',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.5',
-            titulo: 'Listas',
-            hash: 'listas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Dialogo ingles',
-            hash: 'actividad_dialogo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.19',
-            titulo: 'Modal',
-            hash: 'modal',
+            titulo: 'Tipos y características de los actores sociales ',
+            hash: 't-1-4',
           },
         ],
       },
@@ -167,44 +71,20 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'Análisis del conflicto comunitario',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Infografía Animada',
-            hash: 't_2_1',
+            titulo: 'Técnicas de manejo y de negociación',
+            hash: 't-2-1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Video Motion',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Motion + Presentador',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Animación 2D',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Video interactivo',
-            hash: 't_2_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.6',
-            titulo: 'Infografías',
-            hash: 't_2_6',
+            titulo: 'Comunicación asertiva',
+            hash: 't-2-2',
           },
         ],
       },
@@ -212,45 +92,35 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Fundamentación Textil',
+        titulo: 'Identificación de los escenarios participativos comunitarios',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
-            hash: 't_3_1',
+            titulo: 'Oferta institucional en el territorio',
+            hash: 't-3-1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Identificación fibras por combustión',
-            hash: 't_3_2',
+            titulo: 'Canales de comunicación',
+            hash: 't-3-2',
           },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        icono: 'far fa-file-alt',
+        numero: '4',
+        titulo: 'Conceptos, tipos de recursos y de proyectos',
+        desarrolloContenidos: true,
+        subMenu: [
           {
             icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Clasificación de los hilos',
-            hash: 't_3_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.4',
-            titulo: 'Clasificación de tejidos',
-            hash: 't_3_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.5',
-            titulo: 'Caracterización de los tejidos',
-            hash: 't_3_5',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.6',
-            titulo: 'Procesos textiles',
-            hash: 't_3_6',
+            numero: '4.1',
+            titulo: ' Etapas, roles e instrumentos de seguimiento.',
+            hash: 't-4-1',
           },
         ],
       },
@@ -302,132 +172,158 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA:',
+        'Amadeo, B. (2016). El estudio de la comunicación gubernamental. Austral Comunicación, 5(2), 155-181.',
+    },
+    {
+      referencia:
+        'Briceño, B. M. J., & Neves, M. F. (2010). Estrategias de comunicación institucional en organizaciones agroindustriales: caso Unica. Visión Gerencial, 2, 332-347.',
+    },
+    {
+      referencia:
+        'Carrasco, C., L. (2016). Presentación de la asignatura: Técnicas de negociación. Universidad Continental.',
+    },
+    {
+      referencia:
+        'Corvette, B., A. B., Ramírez, V. del C. A., de Lozada, V. M., y Mejía-Barahona, J. E. (2011). Técnicas de negociación y resolución de conflictos. Pearson Educación.',
+    },
+    {
+      referencia:
+        'Lapalma, A. I. (2001). El escenario de la intervención comunitaria. Revista de Psicología, 10(2), 61.',
+    },
+    {
+      referencia: 'Losa, S., & Ernesto, J. (2013). El arte de la negociación.',
+    },
+    {
+      referencia:
+        'Maldonado, C., A. M. (2014). Iniciativas actuales de consolidación de la oferta institucional para el territorio que incluya la forma en que el sector puede asumir ese rol para el Gobierno nacional. DAFP.',
+    },
+    {
+      referencia:
+        'Martínez, R. (2004). Fundamentos culturales, sociales y económicos de la agroecología. Revista de Ciencias Sociales (Cr), 1(103-104), 93-102.',
+    },
+    {
+      referencia:
+        'Ministerio de Agricultura y Desarrollo Rural. (2006). Resolución 187 de 2006. Por la cual se adopta el Reglamento para la producción primaria, procesamiento, empacado, etiquetado, almacenamiento, certificación, importación, comercialización y se establece el Sistema de Control de Productos Agropecuarios Ecológicos.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'https://minvivienda.gov.co/sites/default/files/normativa/0187%20-%202006.pdf',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA:',
+        'Mori, S., M. D. P. (2008). Una propuesta metodológica para la intervención comunitaria. Liberabit, 14(14), 81-90.',
+    },
+    {
+      referencia:
+        'Muscolo, S. I., y Estany, M. L. (2006). Conflicto, mediación comunitaria y creatividad social. Acciones e Investigaciones Sociales, 1(Ext.), 454-460.',
+    },
+    {
+      referencia:
+        'Nova, G., A. (2022). Agricultura agroecológica, seguridad y soberanía alimentaria. Revista Estudios del Desarrollo Social: Cuba y América Latina, 10(1).',
+    },
+    {
+      referencia:
+        'Palma, R., D. (2012). Cómo elaborar propuestas de investigación. Reflexiones Económicas.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
-    },
-    {
-      referencia:
-        '<em>Harpersbazaar</em>. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
-    },
-    {
-      referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA.',
-    },
-    {
-      referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
-    },
-    {
-      referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
-    },
-    {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+        'https://www.yumpu.com/es/document/read/33417674/como-elaborar-propuestas-de-investigacion-universidad-rafael-',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'Actores sociales',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'individuos, grupo o instituciones que con identidad propia representan los intereses y demandas de las comunidades a las que pertenecen.',
     },
     {
-      termino: '<em>Suftware</em>',
+      termino: 'Comunicación',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'proceso que hace posible que el emisor y el receptor se relacionan, se conecten, intercambien información, compartan ideas, datos o significados que son comprensibles y de interés para ambos.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Comunidad',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'lugar donde la interacción social y los vínculos entre actores sociales generan un espacio de integración que configura tanto la convivencia como el conflicto.',
     },
     {
-      termino: '<em>Áctores</em>',
+      termino: 'Conflicto',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'una lucha por el desacuerdo, incompatibilidad aparente, confrontación de intereses, percepciones o actitudes hostiles entre dos o más partes.',
     },
     {
-      termino: 'Moda',
+      termino: 'Desarrollo comunitario',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'capacidades referidas a máximos niveles de igualdad y libertad que produzca bienestar a un grupo poblacional a partir de la oportunidad de escoger entre distintas opciones de desarrollo.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Gestión Comunitaria',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'conjunto de estrategias y acciones desarrolladas por autoridades locales orientadas a la consecución de un objetivo o para resolver problemas específicos.',
     },
     {
-      termino: 'DIseño',
+      termino: 'Oferta institucional del territorio',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'conjunto de bienes y servicios derivados de los planes, programas y proyectos de entidades p&uacute;blicas y privadas y tienen el propósito de orientar, atender e impactar en las condiciones de vida.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Participación',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'labor activa de los integrantes internos y externos de la comunidad en todas las decisiones concernientes con los objetivos y las actividades.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Proyecto',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'organización de los recursos (materiales, económicos, humanos) y acciones para lograr objetivos.',
     },
   ],
   complementario: [
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Gestión comunitaria en el marco de la agroecología',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Avella, B., L. (2016). <em>Manual de Gestión comunitaria.</em> Confecámaras.',
+      tipo: 'Documentos',
+      link:
+        'https://repository.iom.int/bitstream/handle/20.500.11788/918/COL-OIM%200077.pdf?sequence=1&isAllowed=y',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Análisis del conflicto comunitario',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Ecosistemas de recursos educativos digitales. (2021). <em>Técnicas de negociación. </em>[Video]. YouTube. ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=aT1ux5A-s3w',
     },
     {
-      tema: 'Estrategias para la segmentación de mercados',
+      tema: 'Análisis del conflicto comunitario',
       referencia:
-        'Cámara de Comercio de Medellín. (2020). <em>Suftware</em> Tendencias de negocios - Mercadeo y ventas',
+        'Ecosistemas de recursos educativos digitales. (2021). <em>Elementos de la comunicación.</em> [Video]. YouTube. ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=uyfkdAMQAI8',
+    },
+    {
+      tema: 'Análisis del conflicto comunitario',
+      referencia:
+        'Seguimiento académico grupo ejecución de la formación SENA. (2010). <em>Video Tips - 01 Comunicación asertiva.</em> [Video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=ssF7rayWZSQ',
+    },
+    {
+      tema: 'Identificación de los escenarios participativos comunitarios',
+      referencia:
+        'Portal Territorio de Colombia. (2022).<em> Oferta institucional del Gobierno nacional.</em> ',
+      tipo: 'Página Web',
+      link: 'https://portalterritorial.dnp.gov.co/AdmOIGN/OIGN',
+    },
+    {
+      tema: 'Conceptos, tipos de recursos y de proyectos',
+      referencia:
+        'Cohen, E., y Franco, R. (2000).<em> Evaluación de proyectos sociales. Siglo XXI.</em>',
+      tipo: 'Libro',
+      link:
+        'https://books.google.es/books?hl=es&lr=&id=Uz7IeGnN1mkC&oi=fnd&pg=PA6&dq=evaluacion+de+proyectos+sociales&ots=r2J7jTwlD6&sig=fyQ7kgWDaXNdKfwquffkKEJTApQ#v=onepage&q=evaluacion%20de%20proyectos%20sociales&f=false',
+    },
+    {
+      tema: 'Conceptos, tipos de recursos y de proyectos',
+      referencia:
+        'Ecosistemas de recursos educativos digitales. (2022). Formulación de proyectos. [Video] YouTube. https://www.youtube.com/watch?v=JC6-d44r7SM',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=JC6-d44r7SM',
     },
   ],
   creditos: [
@@ -450,9 +346,15 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Yisela Andrea Vidales Vásquez',
+          cargo: 'Experta Temática',
+          centro: 'Regional Tolima, Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Paola Alexandra Moya Peralta',
+          cargo: 'Diseñadora instruccional',
+          centro:
+            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
         },
       ],
     },
@@ -460,14 +362,35 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
+          nombre: 'Yisela Andrea Vidales Vásquez',
+          cargo: 'Diseñador de Contenidos Digitales',
+          centro: 'Nombre centro de formación',
+        },
+        {
           nombre: 'Nombre responsable',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Nombre centro de formación',
         },
         {
           nombre: 'Nombre responsable',
-          cargo: 'Desarrollador Full-Stack',
+          cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Nombre centro de formación',
+        },
+        {
+          nombre: 'Nombre responsable',
+          cargo: 'Diseñador de Contenidos Digitales',
+          centro: 'Nombre centro de formación',
+        },
+        {
+          nombre: 'Nombre responsable',
+          cargo: 'Diseñador de Contenidos Digitales',
+          centro: 'Nombre centro de formación',
+        },
+        {
+          nombre: 'Jorge Leonardo Camacho Pardo',
+          cargo: 'Desarrollador Full-Stack',
+          centro:
+            'Centro para el desarrollo Agroecológico y Agroindustrial - Regional Atlantico',
         },
         {
           nombre: 'Nombre',

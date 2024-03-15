@@ -89,8 +89,8 @@
 
     Separador
 
-    .titulo-segundo.color-acento-contenido
-      h2 2.1.	Técnicas de manejo y de negociación
+    #t-2-1.titulo-segundo.color-acento-contenido
+      h2 2.1	Técnicas de manejo y de negociación
 
     .cajon.color-secundario.p-4.fnd-1.izq.mb-5
         .row.justify-content-center.d-flex.align-items-center
@@ -193,8 +193,8 @@
 
     Separador
 
-    .titulo-segundo.color-acento-contenido
-      h2 2.2.	Comunicación asertiva
+    #t-2-2.titulo-segundo.color-acento-contenido
+      h2 2.2	Comunicación asertiva
 
     p La comunicación es uno de los principios básicos para la interacción social y la convivencia. No obstante, dentro de los diferentes tipos de comunicación se encuentra <b>la asertiva</b>, que se enfoca en generar como principio una apropiada respuesta en el receptor. De ahí que, requiere de capacidades de expresión verbal, de entendimiento y conocimiento sociocultural para poder ser interlocutor asertivo dentro de un contexto determinado. 
     p.mb-5 En esa medida, la comunicación requiere establecer relaciones de <b>entendimiento y empatía</b> entre emisor y receptor. En otras palabras, la comunicación asertiva permite el vivir en sociedad y fortalece los lazos de convivencia basados en el respeto por el otro.

@@ -170,7 +170,7 @@
 
     Separador
 
-    .titulo-segundo.color-acento-contenido
+    #t-1-1.titulo-segundo.color-acento-contenido
       h2 1.1   Normativa y niveles de aplicación
 
     p.mb-5 La agroecología toma en consideración la gestión comunitaria y, por ende, la normativa varía según la aplicación socioeconómica de las sociedades modernas. Para Martínez (2004), la estrategia y finalidad de la agroecología es crear alternativas de desarrollo social, económico y ambiental racionales, incorporando prácticas y técnicas de producción agrícola tradicional, pero de forma sustentable, generando el menor impacto negativo a los recursos naturales, es decir garantizando y conservando al medio ambiente. Mediante una estrategia agroecológica enfocada a niveles de aplicación o dimensiones (social, económico y ambiental), donde la normativa puede variar según los principios comunitarios y organizativos de cada región. 
@@ -199,7 +199,7 @@
 
     Separador
 
-    .titulo-segundo.color-acento-contenido
+    #t-1-2.titulo-segundo.color-acento-contenido
       h2 1.2 Fases e instrumentos de la gestión comunitaria 
 
 
@@ -214,9 +214,6 @@
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Tabla 1. 
       span Fases de intervención comunitaria
-
-
-
 
     .tabla-b.color-acento-contenido.mb-5
       table
@@ -375,7 +372,7 @@
                 
     Separador
 
-    .titulo-segundo.color-acento-contenido
+    #t-1-3.titulo-segundo.color-acento-contenido
       h2 1.3	Conceptos sobre actores sociales
 
     .cajon.color-secundario.p-4.fnd-1.izq.mb-5
@@ -399,7 +396,7 @@
 
     Separador
 
-    .titulo-segundo.color-acento-contenido
+    #t-1-4.titulo-segundo.color-acento-contenido
       h2 1.4	Tipos y características de los actores sociales
  
     .row.justify-content-center.d-flex.align-items-center.fnd-7
