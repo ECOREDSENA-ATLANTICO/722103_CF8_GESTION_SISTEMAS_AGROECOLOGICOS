@@ -336,9 +336,10 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de Línea de Producción',
-          centro: 'Nombre centro de formación',
+          nombre: 'Miguel de Jesús Paredes Maestre',
+          cargo: 'Responsable de línea de producción',
+          centro:
+            'Centro para el Desarrollo Agroecológico y Agroindustrial Sabanalarga - Regional Atlántico',
         },
       ],
     },
@@ -346,15 +347,31 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Yisela Andrea Vidales Vásquez',
+          nombre: 'Rafael Neftalí Lizcano Reyes',
+          cargo: 'Responsable de Desarrollo Curricular',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura Regional Santander',
+        },
+        {
+          nombre: 'Diana Julieth Núñez Ortegón',
           cargo: 'Experta Temática',
-          centro: 'Regional Tolima, Centro de Comercio y Servicios',
+          centro: 'Centro de Comercio y Servicio - Regional Tolima',
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',
           cargo: 'Diseñadora instruccional',
           centro:
-            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Asesora Metodológica',
+          centro: 'Centro de Diseño y Metrología - Distrito Capital',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrector de estilo',
+          centro: 'Centro de Diseño y Metrología - Distrito Capital',
         },
       ],
     },
@@ -362,40 +379,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Yisela Andrea Vidales Vásquez',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Nombre centro de formación',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Nombre centro de formación',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Nombre centro de formación',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Nombre centro de formación',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
-          centro: 'Nombre centro de formación',
-        },
-        {
-          nombre: 'Jorge Leonardo Camacho Pardo',
-          cargo: 'Desarrollador Full-Stack',
+          nombre: 'Alexander Acosta',
+          cargo: 'Producción audiovisual',
           centro:
-            'Centro para el desarrollo Agroecológico y Agroindustrial - Regional Atlantico',
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Productor Multimedia',
-          centro: 'Nombre centro de formación',
+          nombre: 'Nelson Vera',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Carmen Martínez',
+          cargo: 'Producción audiovisual',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Jorge Leonardo Camacho',
+          cargo: 'Desarrollo Fullstack',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Carmen Martínez',
+          cargo: 'Diseño de contenidos digitales',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },
@@ -403,14 +414,34 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
-          cargo: 'Validación y Vinculador de RED',
-          centro: 'Nombre centro formación',
+          nombre: 'Fabian Cuartas',
+          cargo: 'Validación de diseño y contenido',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
-          nombre: 'Nombre validador',
-          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
-          centro: 'Nombre centro formación',
+          nombre: 'Gilberto Herrera',
+          cargo: 'Validación de diseño y contenido',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Luz Karime Amaya',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Valencia Ebrat',
+          cargo: 'Validación de recursos digitales ',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
       ],
     },
