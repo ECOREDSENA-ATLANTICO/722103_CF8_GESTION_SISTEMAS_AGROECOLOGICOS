@@ -171,6 +171,11 @@
       border-radius: 10px
       margin-bottom: 3rem 
 
+
+
+
+
+
 .fnd-10-
   position: relative
   display: flex
@@ -191,7 +196,10 @@
     background-repeat: no-repeat
     background-position: bottom
     z-index: -1
-  
+  @media (max-width: 992px)
+    &::before
+      background-color: #CEE284
+      height: 100% !important
 .fnd-11-
   position: relative
   z-index: 1
@@ -561,3 +569,37 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2))
 
 .slyder-a__bullets__item 
     background-color: #D8E89D
+
+		
+.img-fnd-flot
+  position: relative
+  width: 100%
+  .fl-box
+    background-color: #EFF5D6
+    color: #fff
+    padding: 20px
+    text-align: center
+    border-radius: 1rem
+    margin-top: 1rem
+  .b-img
+    display: none
+  .b-img2
+    height: 275px
+  @media (min-width: 992px)
+    .b-img
+      display: block
+      width: 100%
+    .b-img2
+      display: none
+    .fl-box
+      background-color: #eff5d600
+      position: absolute
+      right: 2%
+      top: 50%
+      transform: translateY(-50%)
+      width: 60%
+      padding: 3px
+      margin-top: 0rem
+      p
+        color: black
+    

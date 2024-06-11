@@ -99,6 +99,10 @@
             p.mb-0 Entonces, la oferta institucional del territorio está mediada tanto por la actuación del Estado como por la operación de instituciones privadas que velan por el desarrollo social y la gestión territorial. En ese sentido, la oferta institucional del territorio es variada e integra a la Presidencia de la República, ministerios, alcaldías, gobernaciones y demás instituciones públicas del Estado y entidades territoriales.  
     
     .row.justify-content-center.mb-5
+      .titulo-sexto.color-acento-contenido(data-aos='fade-right').mb-4
+        h5 Figura 7. 
+        span Entidades y funciones 
+
       .col-md-6.col-lg.mb-5.mb-lg-0.fnd-10-.mx-3
 
             .p-4
@@ -272,25 +276,33 @@
       ImagenInfografica.color-primario.mb-5.img-1.img-3
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/temas/tema3/img-24.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema3/img-24-.svg', alt='Texto que describa la imagen')
             
 
-        .tarjeta.color-secundario.fnd-1-.p-3(x="27%" y="38%" numero="+")
-          .h5.mb-2 titulo
-          p Loremaaaa 
-        .tarjeta.color-secundario.fnd-1-.p-3(x="11.7%" y="47.1%" numero="+")
-          .h5.mb-2 titulo
-          p Loremaaaa 
-        .tarjeta.color-secundario.fnd-1-.p-3(x="20.5%" y="88.8%" numero="+")
-          .h5.mb-2 titulo
-          p Loremaaaa 
+        .tarjeta.color-secundario.fnd-1-.p-3(x="28.5%" y="37.9%" numero="+")
+          .h5.mb-2 Correo
+          p Comunicación por  correo.
+ 
+        .tarjeta.color-secundario.fnd-1-.p-3(x="6.9%" y="46.8%" numero="+")
+          .h5.mb-2 Clientes o público objetivo
+          p.mb-0 - Presidencia de la República
+          p.mb-0 - Entes gubernamentales.
+          p.mb-0 - Empresarios y gremios.
+          p.mb-0 - Medios de comunicación.
+          p.mb-0 - Socios estratégicos.
+          p.mb-0 - Sector trabajo y educación.
+          p.mb-0 - Organizaciones No Gubernamentales (ONG).
+          p.mb-0 - Opinión pública en general.
+ 
+        .tarjeta.color-secundario.fnd-1-.p-3(x="21.7%" y="88.5%" numero="+")
+          .h5.mb-2 Radial
+          p Transmision radial  SENA al Aire Radio. 
         .tarjeta.color-secundario.fnd-1-.p-3(x="74.9%" y="56.6%" numero="+")
-          .h5.mb-2 titulo
-          p Loremaaaa 
+          .h5.mb-2 Redes sociales
+          p Facebook, Twitter,  Instagram, YouTube. 
         .tarjeta.color-secundario.fnd-1-.p-3(x="61.4%" y="66.1%" numero="+")
-          .h5.mb-2 titulo
-          p Loremaaaa 
-
+          .h5.mb-2 Página web
+          p Servicio Nacional de  Aprendizaje - SENA.
 
     .row.justify-content-center.mb-5(data-aos='fade-right')
 

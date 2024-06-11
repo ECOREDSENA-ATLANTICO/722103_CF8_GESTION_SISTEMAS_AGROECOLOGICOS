@@ -102,7 +102,7 @@
           span Tipos de recursos
 
         figure
-          img(src='@/assets/curso/temas/tema4/img-8.svg', alt='Tipos de recursos')
+          img(src='@/assets/curso/temas/tema4/img-8-.svg', alt='Tipos de recursos')
 
       .col-lg-10.mb-5
 
@@ -134,7 +134,7 @@
     Separador
 
     #t-4-1.titulo-segundo.color-acento-contenido
-      h2 4.1 Etapas, roles e instrumentos de seguimiento.
+      h2 4.1 Etapas, roles e instrumentos de seguimiento
 
     .bloque-texto-g.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img.cent(

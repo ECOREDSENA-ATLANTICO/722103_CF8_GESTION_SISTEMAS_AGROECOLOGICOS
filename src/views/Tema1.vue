@@ -260,7 +260,7 @@
             td
               p.text-bold 4. Diseño y planificación de la intervención.
             td
-              p.mb-0 Técnicas participativas.
+              p.mb-0 
               
           tr
             td
@@ -386,7 +386,7 @@
           span Actores sociales
         .fnd-2.mb-3 
           figure
-            img(src='@/assets/curso/temas/tema1/img-28.svg', alt='Actores sociales')
+            img(src='@/assets/curso/temas/tema1/img-28-.svg', alt='Actores sociales')
         
       .col-lg-6.justify-content-center.d-flex.justify-content-start
         .fnd-6.px-4

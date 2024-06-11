@@ -201,16 +201,16 @@
 
 
 
-    .row.justify-content-center.align-items-center.mb-5              
+
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-11
-        .fond
-          .fnd-3--
-          .row.justify-content-center.d-flex.align-items-center.ptt-3
-            .col-lg-4
-              figure
-                img.img-386(src='@/assets/curso/temas/tema2/img-19-.svg', alt='Central de Justicia Cívica')             
-            .col-lg-8
-              p.tt-m.mb-xxl-5 Para tener como principio en las relaciones humanas la comunicación asertiva, es necesario que el <b>emisor sea claro con lo que quiere lograr de su interlocutor a través de mensajes directos y breves que permiten el mejor entendimiento y no se pierden en el discurso, lo cual, permite que la comunicación sea directa y de claro entendimiento. </b>           
+        .img-fnd-flot.mb-3
+          img.b-img(src='@/assets/curso/temas/tema2/img--19.svg' alt='Background Image')
+          
+          .fl-box
+            p.mb-0 Para tener como principio en las relaciones humanas la comunicación asertiva, es necesario que el <b>emisor sea claro con lo que quiere lograr de su interlocutor a través de mensajes directos y breves que permiten el mejor entendimiento y no se pierden en el discurso, lo cual, permite que la comunicación sea directa y de claro entendimiento. </b>     
+
+
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
