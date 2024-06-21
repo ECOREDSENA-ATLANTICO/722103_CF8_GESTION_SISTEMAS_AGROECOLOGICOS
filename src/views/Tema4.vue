@@ -19,7 +19,7 @@
 
 
     .row.justify-content-center.mb-5(data-aos='fade-right')
-      .col-lg-6
+      .col-lg-6.mb-3
         figure
           img(src='@/assets/curso/temas/tema4/img-2.svg', alt='Conceptos, tipos de recursos y de proyectos')
       .col-lg-6

@@ -279,10 +279,10 @@
                  
 
     .row.mb-5
-      .col-lg-6.justify-content-center
+      .col-lg-6.justify-content-center.order-2.order-lg-1
         figure(data-aos='fade-right')
           img(src='@/assets/curso/temas/tema2/img-28.svg', alt='comunicación no verbal')    
-      .col-md-6.mb-5.mb-md-0
+      .col-md-6.mb-5.mb-md-0.order-1.order-lg-2
         LineaTiempoD.color-secundario
           .row.justify-content-center.align-items-center(numero="5" titulo="Pregunta asertiva") 
             .col-md-6.mb-4.mb-md-0

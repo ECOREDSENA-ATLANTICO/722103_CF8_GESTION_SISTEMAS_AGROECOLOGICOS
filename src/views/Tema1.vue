@@ -14,11 +14,11 @@
 
       .cajon.color-secundario.p-4.fnd-1 
         .row.justify-content-center.d-flex.align-items-center
-          .col-3
+          .col-md-3.mb-3
             figure
               img.img-151(src='@/assets/curso/temas/tema1/img-1.svg', alt='Texto que describa la imagen')
         
-          .col-9.mb-md-0
+          .col-md-9.mb-md-0
             p La agroecología desde la década de 1920 fue definida por científicos e investigadores para aludir a la aplicación de principios ecológicos en la agricultura. Sin embargo, según la FAO, no fue sino hasta la década de los años ochenta, que la agroecología fue tomada como una disciplina dentro de la ecología, la agronomía y la etnobotánica. La agroecología constituye un espectro de diferentes corrientes teóricas, de ahí que, la FAO ha constituido una base de datos, definiciones para lo cual ha reunido varias, de diversas fuentes realizadas por el gobierno, científicos, académicos, ciudadanos, etc.
 
         

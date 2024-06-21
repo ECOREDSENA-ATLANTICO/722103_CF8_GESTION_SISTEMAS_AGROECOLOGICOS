@@ -19,10 +19,10 @@
         p.mb-0.text-white.pb-5 Más aún, los escenarios participativos comunitarios son propuestas desestructurantes que promueven las posibilidades e identifican las limitaciones en dichos procesos de contención político-social.
 
     .row.justify-content-center.align-items-center
-      .col-lg-11
+      .col-lg-11.bgr
 
-        .bloque-texto-g.b-t-g.p-3.p-sm-4.p-md-5.mb-5
-          .bloque-texto-g__img.bl-t_img(
+        .bloque-texto-g.b-t-g.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img.bl-t_img.d-none.d-lg-flex(
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-2.svg')})`}"
           )
           .bloque-texto-g__texto.bl-t_texto.p-4

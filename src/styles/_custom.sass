@@ -83,6 +83,9 @@
   height: 100%
   left: 0px
   top: 0px
+  @media (max-width: $bp-max-xs)
+    background-image: none
+    background-color: #FFE9E1
 
 .fnd-7
     position: relative
@@ -173,7 +176,8 @@
 
 
 
-
+.bgr
+  background-color: #EFF5D6
 
 
 .fnd-10-
@@ -603,3 +607,6 @@ $crd-width: calc(100% - ((#{$crd-icon-size} / 2))
       p
         color: black
     
+.slyder-a__bullets__item
+  @media (max-width: $bp-max-xs)
+    margin: 0 5px !important
