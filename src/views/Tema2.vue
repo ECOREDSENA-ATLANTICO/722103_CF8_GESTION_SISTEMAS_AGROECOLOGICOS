@@ -21,7 +21,7 @@
 
       .col-lg-8
         p.mb-3 Aunque el conflicto se genere por las relaciones humanas, este termina siendo inherente, debido a que la interacción social que genera la relación entre seres humanos diversos y con diferencias lleva a que el conflicto se dé de mayor o menor gravedad. 
-        p.mb-3 Sin embargo, aunque en todo grupo social hay establecidos códigos para la convivencia, estos no se encuentran exentos del conflicto, debido a que en las comunidades también hay jerarquías, intereses y demandas de los diversos actores que están en constante relación. Como lo indican Muscolo y Estany (2006), el conflicto siempre se puede dar en las relaciones sociales diarias ya sean espontáneas o permanentes; es decir es inevitable, pero a su vez constructivo a pesar de que normalmente es indeseado, no es bien recibido. En la siguiente gráfica se puede conocer los diferentes tipos de conflictos que hay: 
+        p.mb-3 Sin embargo, aunque en todo grupo social hay establecidos códigos para la convivencia, estos no se encuentran exentos del conflicto, debido a que en las comunidades también hay jerarquías, intereses y demandas de los diversos actores que están en constante relación. Como lo indican Muscolo y Estany (2006), el conflicto siempre se puede dar en las relaciones sociales diarias, ya sean espontáneas o permanentes; es decir, es inevitable, pero a su vez constructivo, a pesar de que normalmente es indeseado, no es bien recibido. En la siguiente gráfica se puede conocer los diferentes tipos de conflictos que hay: 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-11
@@ -104,7 +104,7 @@
           .tarjeta.color-primario
             .text-white.p-4
               h5 Conflicto
-              p Proceso que se inicia cuando una parte percibe que otra la ha afectado de manera negativa o que está a punto de afectar de manera negativa, alguno de sus intereses.
+              p Proceso que se inicia cuando una parte percibe que otra la ha afectado de manera negativa o que está a punto de afectar, de manera negativa, alguno de sus intereses.
 
       .col-md-6.col-lg.mb-5.mb-lg-0
         .tarjeta-avatar
@@ -174,7 +174,7 @@
       .col-lg-7
         p.mb-3 Tiene elementos que permiten su desarrollo, como el interés por negociar, la voluntad de los grupos afectados, una relación social que permite que se establezcan lazos de comunicación y se debe tomar en cuenta el poder que tiene cada grupo en discusión. De esta manera, la negociación tiene una finalidad que permite que se llegue a un acuerdo generalizado dentro de los beneficios de cada negociante. 
         .cajon.color-acento-contenido.fnd-5.p-4.mb-4
-          p Como lo indican Losa y Ernesto (2013), existen diferentes técnicas de negociación las cuales se pueden clasificar en función de los elementos que intervienen como por ejemplo el tiempo, el factor desencadenante o la actitud de las partes. 
+          p Como lo indican Losa y Ernesto (2013), existen diferentes técnicas de negociación, las cuales se pueden clasificar en función de los elementos que intervienen, como por ejemplo el tiempo, el factor desencadenante o la actitud de las partes. 
   
       .col-lg-5
         figure
@@ -218,7 +218,7 @@
       )
       .bloque-texto-g__texto.p-4
         p.mb-3 Así mismo, el emisor debe hablar con respeto, dentro de la comunicación y expresión oral, entendiendo las diferencias y desconocimientos de su interlocutor. 
-        p.mb-0 La comunicación asertiva no es un rasgo de la personalidad de todo ser humano, sin embargo, sí puede ser generado a partir de conductas que se potencializan a partir de gestionar habilidades para aprender a comunicarse de manera asertiva y tener un impacto positivo dentro de las relaciones sociales y humanas. De este modo es importante para cualquier contexto de participación social y contribuye a la convivencia, además, fortalece las relaciones. interpersonales. 
+        p.mb-0 La comunicación asertiva no es un rasgo de la personalidad de todo ser humano, sin embargo, sí puede ser generado a partir de conductas que se potencializan a partir de gestionar habilidades para aprender a comunicarse de manera asertiva y tener un impacto positivo dentro de las relaciones sociales y humanas. De este modo es importante para cualquier contexto de participación social y contribuye a la convivencia, además, fortalece las relaciones interpersonales. 
 
 
     .list2.mb-3(data-aos="fade-down")
@@ -261,14 +261,14 @@
           
           .row.justify-content-center.align-items-center(numero="3" titulo="Técnica para el cambio") 
             .col-md-6.mb-4.mb-md-0
-              p.text-small Busca brindar una visión global de la discusión relativizándola para reducir el nivel de agresividad y/o frustración. 
+              p.text-small Busca brindar una visión global de la discusión, relativizándola para reducir el nivel de agresividad y/o frustración. 
             .col-md-6
               figure
                 img.img-170(src='@/assets/curso/temas/tema2/img-25.svg', alt='Técnica para el cambio')
           
           .row.justify-content-center.align-items-center(numero="4" titulo="Acuerdo asertivo") 
             .col-md-6.mb-4.mb-md-0
-              p.text-small Consiste en intenta llegar a un acuerdo que ratifique lo que se pueda considerar como error, pero dando como fundamento que, en general, no es lo habitual. 
+              p.text-small Consiste en intentar llegar a un acuerdo que ratifique lo que se pueda considerar como error, pero dando como fundamento que, en general, no es lo habitual. 
             .col-md-6
               figure
                 img.img-170(src='@/assets/curso/temas/tema2/img-26.svg', alt='Acuerdo asertivo')
@@ -295,7 +295,7 @@
 
           .row.justify-content-center.align-items-center(numero="6" titulo="Aplazamiento asertivo")
             .col-md-6.mb-4.mb-md-0
-              p.text-small Esta técnica se usa cuando no se es capaces en ese momento de dar una solución o respuesta adecuada a la reclamación que nos hace el interlocutor.
+              p.text-small Esta técnica se usa cuando no se es capaz en ese momento de dar una solución o respuesta adecuada a la reclamación que nos hace el interlocutor.
             .col-md-6
               figure
                 img.img-170(src='@/assets/curso/temas/tema2/img-30.svg', alt='Aplazamiento asertivo')

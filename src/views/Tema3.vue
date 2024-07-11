@@ -13,7 +13,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-1.png')})`}"
       )
       .bloque-texto-g__texto.p-4.fnd-4
-        p.text-white.pt-5 La transformación social requiere que los actores generen espacios comunitarios para la participación, en esa medida, identificar escenarios participativos conlleva a que la acción social se fortalezca a través de la democratización y el trabajo en equipo dentro de la comunidad, mediados por la transformación social desde la gestión endógena de los líderes comunitarios y no desde la gestión parlamentario o gubernamental. 
+        p.text-white.pt-5 La transformación social requiere que los actores generen espacios comunitarios para la participación, en esa medida, identificar escenarios participativos conlleva a que la acción social se fortalezca a través de la democratización y el trabajo en equipo dentro de la comunidad, mediados por la transformación social desde la gestión endógena de los líderes comunitarios y no desde la gestión parlamentaria o gubernamental. 
         br
         br
         p.mb-0.text-white.pb-5 Más aún, los escenarios participativos comunitarios son propuestas desestructurantes que promueven las posibilidades e identifican las limitaciones en dichos procesos de contención político-social.
@@ -82,7 +82,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p.text-white La estructura estatal y la información para cada entidad pública está contenida en el manual del Departamento Nacional de Planeación y en el portal web del Gobierno nacional que compila la mayoría de la información de interés para las entidades territoriales y sus autoridades; actualmente se puede consultar la oferta institucional del gobierno nacional en el Portal Territorial 
+                  p.text-white La estructura estatal y la información para cada entidad pública está contenida en el manual del Departamento Nacional de Planeación y en el portal web del Gobierno nacional, que compila la mayoría de la información de interés para las entidades territoriales y sus autoridades; actualmente se puede consultar la oferta institucional del gobierno nacional en el Portal Territorial. 
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="('https://portalterritorial.dnp.gov.co/AdmOIGN/OIGN ')" target="_blank")
                     span Abrir
@@ -162,7 +162,7 @@
         p.mb-3 La comunicación en las entidades territoriales debe permitir el acceso a los planes, proyectos y estrategias de desarrollo comunitario que afianzan y consolidan las funciones institucionales y el acceso de los ciudadanos. 
         br
         br
-        p.mb-0 De esta manera, los canales de comunicación institucional y gubernamental se estructuran de manera que, el acceso a la información consolide el intercambio de información e ideas pertinentes para que se fomente un canal de comunicación directo y de pertinencia para la comunidad. De aquí que para Amadeo (2016) “la comunicación gubernamental obedece a una política pública, que implica el ejercicio de establecer y precisar la agenda de la gestión de instituciones, actitudes y procesos.
+        p.mb-0 De esta manera, los canales de comunicación institucional y gubernamental se estructuran de manera que, el acceso a la información consolide el intercambio de información e ideas pertinentes para que se fomente un canal de comunicación directo y de pertinencia para la comunidad. De aquí que para Amadeo (2016) la comunicación gubernamental obedece a una política pública, que implica el ejercicio de establecer y precisar la agenda de la gestión de instituciones, actitudes y procesos.
 
     p.mb-3 Kunsch (2003, citado por Briceño y Neves, 2010) sustenta que la comunicación institucional funciona para fortalecer la imagen e identidad corporativa, porque permite dar a conocer la entidad fuera del área de cobertura interna que posee. 
 
@@ -247,7 +247,7 @@
       ImagenInfografica.color-primario.mb-5.img-1.img-3
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/temas/tema3/img-23.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema3/img-23.svg', alt='Canales de comunicación interna')
             
 
         .tarjeta.color-secundario.fnd-1-.p-3(x="11.8%" y="11.8%" numero="+")
@@ -276,7 +276,7 @@
       ImagenInfografica.color-primario.mb-5.img-1.img-3
         template(v-slot:imagen)
           figure
-            img(src='@/assets/curso/temas/tema3/img-24-.svg', alt='Texto que describa la imagen')
+            img(src='@/assets/curso/temas/tema3/img-24-.svg', alt='Canales de comunicación externa')
             
 
         .tarjeta.color-secundario.fnd-1-.p-3(x="28.5%" y="37.9%" numero="+")
@@ -316,7 +316,7 @@
       .col-lg-6
         p.mb-3 La socialización hace parte de las principales características que los actores sociales llevan a cabo para compartir ideas, pensamientos y necesidades de sus comunidades, cuando hay una restricción en la socialización la gestión social entra declive porque <b>surge el conflicto social y se pierde el rumbo de la comunidad interesada por el desarrollo y cambio endógeno. </b>
         .cajon.color-acento-contenido.fnd-5.p-4.mb-4
-          p La restricción para la socialización se da con base en la limitación que tienen las comunidades para la gestión de la información de interés, específicamente de contenidos de orden político, económico y social. Es decir, cuando la información no circula dentro de la comunidad es posible que se restrinja la socialización porque el desconocimiento hace que la interacción y la gestión social entren en un proceso de retroceso que imposibilita la participación ciudadana y el aprendizaje colectivo. 
+          p La restricción para la socialización se da con base en la limitación que tienen las comunidades para la gestión de la información de interés, específicamente de contenidos de orden político, económico y social. Es decir, cuando la información no circula dentro de la comunidad, es posible que se restrinja la socialización porque el desconocimiento hace que la interacción y la gestión social entren en un proceso de retroceso que imposibilita la participación ciudadana y el aprendizaje colectivo. 
 
 
 

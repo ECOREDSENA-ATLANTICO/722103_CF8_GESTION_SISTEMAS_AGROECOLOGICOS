@@ -115,7 +115,7 @@
         .row
           .col-md-5.mb-4.mb-md-0
             h5.mt-5 Resiliencia
-            p.mb-3 Mejorar la resiliencia de las personas, las comunidades y los ecosistemas es fundamental para lograr sistemas alimentarios y agrícolas sostenibles. Los sistemas agroecológicos diversificados son más resilientes, esto es porque tienen una mayor capacidad para recuperarse de las perturbaciones, en particular de fenómenos meteorológicos extremos como sequía, inundaciones o huracanes, y para resistir el ataque de plagas y enfermedades.
+            p.mb-3 Mejorar la resiliencia de las personas, las comunidades y los ecosistemas es fundamental para lograr sistemas alimentarios y agrícolas sostenibles. Los sistemas agroecológicos diversificados son más resilientes, esto es, porque tienen una mayor capacidad para recuperarse de las perturbaciones, en particular de fenómenos meteorológicos extremos como sequía, inundaciones o huracanes, y para resistir el ataque de plagas y enfermedades.
 
           .col-md-7
             figure
@@ -137,7 +137,7 @@
           .col-md-5.mb-4.mb-md-0
             h5.mt-5 Cultura y tradiciones alimentarias
 
-            p.mb-3 Mediante el apoyo a unas dietas saludables, diversificadas y culturalmente apropiadas, la agroecología contribuye a la seguridad alimentaria y la nutrición al tiempo que mantiene la salud de los ecosistemas. 
+            p.mb-3 Mediante el apoyo a unas dietas saludables, diversificadas y culturalmente apropiadas, la agroecología contribuye a la seguridad alimentaria y la nutrición, al tiempo que mantiene la salud de los ecosistemas. 
             p.mb-3 La agricultura y la alimentación son componentes esenciales del patrimonio de la humanidad, la cultura y las tradiciones alimentarias cumplen un papel social fundamental a la hora de moldear el comportamiento humano. 
             p.mb-3 Los sistemas alimentarios actuales han creado una desconexión entre los hábitos alimentarios y la cultura, lo que ha contribuido a una situación en la que coexisten el hambre y la obesidad, en un mundo que produce alimentos suficientes para alimentar a toda su población.
 
@@ -173,7 +173,7 @@
     #t-1-1.titulo-segundo.color-acento-contenido
       h2 1.1   Normativa y niveles de aplicación
 
-    p.mb-5 La agroecología toma en consideración la gestión comunitaria y, por ende, la normativa varía según la aplicación socioeconómica de las sociedades modernas. Para Martínez (2004), la estrategia y finalidad de la agroecología es crear alternativas de desarrollo social, económico y ambiental racionales, incorporando prácticas y técnicas de producción agrícola tradicional, pero de forma sustentable, generando el menor impacto negativo a los recursos naturales, es decir garantizando y conservando al medio ambiente. Mediante una estrategia agroecológica enfocada a niveles de aplicación o dimensiones (social, económico y ambiental), donde la normativa puede variar según los principios comunitarios y organizativos de cada región. 
+    p.mb-5 La agroecología toma en consideración la gestión comunitaria y, por ende, la normativa varía según la aplicación socioeconómica de las sociedades modernas. Para Martínez (2004), la estrategia y finalidad de la agroecología es crear alternativas de desarrollo social, económico y ambiental racional, incorporando prácticas y técnicas de producción agrícola tradicional, pero de forma sustentable, generando el menor impacto negativo a los recursos naturales, es decir, garantizando y conservando al medio ambiente. Mediante una estrategia agroecológica enfocada a niveles de aplicación o dimensiones (social, económico y ambiental), donde la normativa puede variar según los principios comunitarios y organizativos de cada región. 
 
 
     .row.justify-content-center.d-flex.align-items-center
@@ -215,7 +215,7 @@
       h5 Tabla 1. 
       span Fases de intervención comunitaria
 
-    .tabla-b.color-acento-contenido.mb-5
+    .tabla.color-acento-contenido.mb-5
       table
         caption <b>Nota.</b> Tomada de Mori (2008). 
         tbody
@@ -407,7 +407,7 @@
       .col-lg-8.col-sm-12
         p Los actores sociales se caracterizan por ser individuos, grupo o instituciones que con identidad propia representan los intereses y demandas de las comunidades a las que pertenecen mediante el uso de sus habilidades, información, recursos, presupuestos y tiempo, propenden por capitalizar al máximo las oportunidades locales y contribuyen a su localidad de forma transparente; además, son capaces de lograr incidir e influenciar en las actuaciones de otras personas.
       
-        p Los tipos y características de los actores se establecen según el interés que tienen estos en generar procesos de cambio social dentro de sus comunidades. Los actores promueven la intervención y el desarrollo endógena a través de la participación y la acción que estos puedan generar. De forma general, algunos de los tipos de actores sociales que se pueden identificar son los organismos de gobierno, las comunidades y organizaciones sociales, las ONG, los partidos políticos, los centros educativos, entre otros. 
+        p Los tipos y características de los actores se establecen según el interés que tienen estos en generar procesos de cambio social dentro de sus comunidades. Los actores promueven la intervención y el desarrollo endógena, a través de la participación y la acción que estos puedan generar. De forma general, algunos de los tipos de actores sociales que se pueden identificar son los organismos de gobierno, las comunidades y organizaciones sociales, las ONG, los partidos políticos, los centros educativos, entre otros. 
       .col-lg-2.d-none.d-sm-block
         figure
           img.img-350(src='@/assets/curso/temas/tema1/img-30-3.svg', alt='Tipos de actores sociales')

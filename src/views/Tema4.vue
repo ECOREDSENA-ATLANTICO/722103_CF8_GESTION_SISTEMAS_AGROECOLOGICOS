@@ -15,7 +15,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img-1-.svg')})`}"
           )
           .bloque-texto-g__texto.bl-t_texto2.py-4
-            p.mb-0 Para llevar a cabo un proyecto, y para que este pueda ser ejecutado a cabalidad teniendo en cuenta las condiciones para su ejecución, es indispensable identificar los recursos que son necesarios para su desarrollo. Así, la identificación de recursos va más allá de lo económico, pues también integra los materiales y equipos necesarios, el talento humano, un equipo que tenga conocimiento y experiencia para llevar a cabo la ejecución de la propuesta. 
+            p.mb-0 Para llevar a cabo un proyecto, y para que este pueda ser ejecutado a cabalidad, teniendo en cuenta las condiciones para su ejecución, es indispensable identificar los recursos que son necesarios para su desarrollo. Así, la identificación de recursos va más allá de lo económico, pues también integra los materiales y equipos necesarios, el talento humano, un equipo que tenga conocimiento y experiencia para llevar a cabo la ejecución de la propuesta. 
 
 
     .row.justify-content-center.mb-5(data-aos='fade-right')
@@ -24,7 +24,7 @@
           img(src='@/assets/curso/temas/tema4/img-2.svg', alt='Conceptos, tipos de recursos y de proyectos')
       .col-lg-6
         p.mb-3 Con el desarrollo de las sociedades se han generado diferentes tipos de proyectos, según la incidencia que pueda tener dentro de lo socioeconómico y cultural. Estos proceden de diferentes organizaciones y tienen diferentes objetivos según lo establecido por el tipo de instituciones que lo formulan; si son gubernamentales, privadas o comunitarias. 
-        p.mb-3 De este modo, para pensar que en la gestión de proyectos es necesario tener en cuenta el alcance, el tiempo de ejecución, la integración que pueda tener comunidad-organización, los costes que giran entre recursos financieros, humanos y físicos. A la par la gestión de proyectos, se les suma la calidad en la incidencia, la comunicación y la participación ciudadana. 
+        p.mb-3 De este modo, para pensar que en la gestión de proyectos es necesario tener en cuenta el alcance, el tiempo de ejecución, la integración que pueda tener comunidad-organización, los costes que giran entre recursos financieros, humanos y físicos. A la par, la gestión de proyectos, se les suma la calidad en la incidencia, la comunicación y la participación ciudadana. 
 
         .cajon.color-acento-contenido.fnd-5.p-4.mb-4
           p Por tal razón, es necesario identificar el tipo de proyecto y así a qué objetivo tiende su intención, pues según sea este cambia la planeación y fuentes de financiación. Es así como el tipo de proyecto incide no solo en su formulación, sino también en la toma de decisiones y el desarrollo de este.      
@@ -43,7 +43,7 @@
           .col-md-6.mb-4.mb-md-0
             p <b>Proyectos públicos:</b> se financian en su totalidad con fondos  públicos o que provengan de instituciones  gubernamentales.
             p <b>Proyectos privados:</b> sus aportes provienen únicamente de  la iniciativa privada o de empresas con capital particular.
-            p <b>Proyectos mixtos:</b> combinan las dos formas de financiación  (pública y privada)
+            p <b>Proyectos mixtos:</b> combinan las dos formas de financiación  (pública y privada).
 
         
       .py-3.py-md-4(titulo="Según el grado de experimentación")
@@ -141,7 +141,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img-11.png')})`}"
       )
       .bloque-texto-g__texto.p-4.fnd-4.fnd-4-1
-        p.pt-5 El diseño de proyecto lleva a que estén divididos en diferentes etapas que van desde el análisis de la situación actual, pasando por la evaluación de enfoques y visión de cambios esperados hasta llegar a diseñar las estrategias y organización del proyecto. 
+        p.pt-5 El diseño de proyecto lleva a que estén divididos en diferentes etapas que van desde el análisis de la situación actual, pasando por la evaluación de enfoques y visión de cambios esperados, hasta llegar a diseñar las estrategias y organización del proyecto. 
         br
         br
         p.pt-5 Todo ello genera roles que pueden tener un seguimiento bajo metodologías, técnicas e instrumentos que permiten la medición del cumplimiento de actividades, así como también la toma de decisiones en el diseño y formulación del proyecto para concretar su ejecución.
@@ -152,7 +152,7 @@
       span Etapas, roles e instrumentos
 
 
-    .tabla-b.color-acento-contenido.mb-5
+    .tabla.color-acento-contenido.mb-5
 
       table
         tbody
