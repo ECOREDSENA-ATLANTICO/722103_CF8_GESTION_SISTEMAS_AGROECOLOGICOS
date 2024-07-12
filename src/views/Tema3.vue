@@ -162,7 +162,7 @@
         p.mb-3 La comunicación en las entidades territoriales debe permitir el acceso a los planes, proyectos y estrategias de desarrollo comunitario que afianzan y consolidan las funciones institucionales y el acceso de los ciudadanos. 
         br
         br
-        p.mb-0 De esta manera, los canales de comunicación institucional y gubernamental se estructuran de manera que, el acceso a la información consolide el intercambio de información e ideas pertinentes para que se fomente un canal de comunicación directo y de pertinencia para la comunidad. De aquí que para Amadeo (2016) la comunicación gubernamental obedece a una política pública, que implica el ejercicio de establecer y precisar la agenda de la gestión de instituciones, actitudes y procesos.
+        p.mb-0 De esta manera, los canales de comunicación institucional y gubernamental se estructuran de manera que, el acceso a la información consolide el intercambio de información e ideas pertinentes para que se fomente un canal de comunicación directo y de pertinencia para la comunidad. De aquí que para Amadeo (2016) "la comunicación gubernamental obedece a una política pública, que implica el ejercicio de establecer y precisar la agenda de la gestión de instituciones, actitudes y procesos".
 
     p.mb-3 Kunsch (2003, citado por Briceño y Neves, 2010) sustenta que la comunicación institucional funciona para fortalecer la imagen e identidad corporativa, porque permite dar a conocer la entidad fuera del área de cobertura interna que posee. 
 
@@ -232,7 +232,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6
         p.mb-3 Por su parte, para los canales de comunicación externa sus clientes o público objetivo son la Presidencia de la República, entes gubernamentales, medios de comunicación, gremios y empresarios, ONG, socios estratégicos ciudadanía y público en general, siendo los principales canales de comunicación empleados, la página web, correo electrónico, redes sociales (Facebook, Twitter, Instagram, YouTube), transmisión radial (SENA al aire) y televisiva, por medio de los cuales se difunde productos como boletines de prensa, comunicados a la opinión pública, mensajes virtuales, publicaciones, etc. 
-        p.mb-3 Para el caso específico del Servicio Nacional de Aprendizaje (SENA), según el Manual de comunicación interna y externa código, existen canales de comunicación interna donde se divulga productos como magazín Venga le cuento, newsletter o boletín, flash informativo, boletín virtual NotiSENA, videos, afiches, banner, pódcast, etc., a través de canales como intranet, pantallas, carteleras físicas, tótem, correo institucional, grupos de WhatsApp. Estos se presentan en la siguiente infografía: 
+        p.mb-3 Para el caso específico del Servicio Nacional de Aprendizaje (SENA), según el Manual de comunicación interna y externa, existen canales de comunicación interna donde se divulga productos como magazín Venga le cuento, newsletter o boletín, flash informativo, boletín virtual NotiSENA, videos, afiches, banner, pódcast, etc., a través de canales como intranet, pantallas, carteleras físicas, tótem, correo institucional, grupos de WhatsApp. Estos se presentan en la siguiente infografía: 
 
       .col-lg-6
         figure.px-2
